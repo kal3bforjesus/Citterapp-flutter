@@ -1,0 +1,14 @@
+{
+
+    "name": "Kyle",
+    "city": "New York",
+    "favoritenumber": 4,
+    "isprogrammer":true,
+    "hobbies": ["bowl", "hello"],
+    "friends":[{
+        "name":"Joey",
+        "city": "New York",
+    "favoritenumber": 4,
+    "isprogrammer":true
+    }]
+}
